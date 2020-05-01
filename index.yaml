@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  onyxia:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-05-01T11:04:58.024506452Z"
+    description: deploy onyxia in kubernetes
+    digest: cdfbba1d68de12de1637ce4c00e0b42605c026cab57c45086921354415da77b3
+    icon: https://onyxia.lab.sspcloud.fr/onyxia.svg
+    name: onyxia
+    type: application
+    urls:
+    - https://github.com/olevitt/onyxia-chartV2/releases/download/onyxia-1.0.3/onyxia-1.0.3.tgz
+    version: 1.0.3
+generated: "2020-05-01T11:04:57.881355622Z"
